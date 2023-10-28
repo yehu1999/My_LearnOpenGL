@@ -1,0 +1,11 @@
+1.Model矩阵先Scale，再Translate，此时Translate被Scale破坏。
+（应先Translate再Scale）23.10.4
+2.Model用glm::mat4默认初始化为零矩阵，而非单位矩阵，之后对其任何变换都无效。
+（应初始化为mat4(0.1f)）23.10.4
+3.多光源光照diffuse重复写入tex颜色，导致颜色变深。
+（单光源时，确实可以将tex颜色放进diffuse处理，但在多光源时应单独考虑lighting与tex颜色，循环之后相乘）23.10.4
+4.遗漏uniform未传入。
+（多检查）23.10.4
+5.最远视距可以在projection矩阵的perspective中调整，调整camera的FOV（ZOOM）有作用,但不多。
+（小贴士）23.10.4
+6.绑定帧缓冲后要glClear清屏，绑定前清的没用。23.10.11
