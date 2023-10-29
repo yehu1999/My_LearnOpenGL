@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_Shaders", "3_Shaders\3_Shaders.vcxproj", "{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Debug|x64.ActiveCfg = Debug|x64
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Debug|x64.Build.0 = Debug|x64
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Debug|x86.ActiveCfg = Debug|Win32
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Debug|x86.Build.0 = Debug|Win32
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Release|x64.ActiveCfg = Release|x64
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Release|x64.Build.0 = Release|x64
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Release|x86.ActiveCfg = Release|Win32
+		{5104F170-5A0F-4EEA-82EF-A6A5C0215E81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB7335BF-47DD-4C54-B87C-4A533E125769}
+	EndGlobalSection
+EndGlobal

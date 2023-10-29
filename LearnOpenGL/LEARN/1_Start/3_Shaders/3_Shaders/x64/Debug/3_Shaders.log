@@ -1,0 +1,15 @@
+﻿  shader.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\srcs\shader.cpp(43,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\srcs\shader.cpp(42,6): warning C4101: “success”: 未引用的局部变量
+  part3.cpp
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\part3.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\shader.h(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\part3.cpp(115,14): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\part3.cpp(117,14): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\part3.cpp(119,14): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\part3.cpp(121,14): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\part3.cpp(124,15): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\3_Shaders\part3.cpp(126,17): warning C4305: “-=”: 从“double”到“float”截断
+  正在生成代码...
+  3_Shaders.vcxproj -> E:\Learn\LearnOpenGL\LEARN\1_Start\3_Shaders\x64\Debug\3_Shaders.exe
