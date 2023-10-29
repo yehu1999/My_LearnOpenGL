@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\Includes\mythings\shader.h(105,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\shader.h(104,6): warning C4101: “success”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\mesh.h(130,65): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  4_Face_Culling.vcxproj -> E:\Learn\LearnOpenGL\LEARN\4_AdvancedOpenGL\4_Face_Culling\x64\Debug\4_Face_Culling.exe
