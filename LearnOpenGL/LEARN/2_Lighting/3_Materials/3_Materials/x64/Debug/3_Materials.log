@@ -1,0 +1,36 @@
+﻿  main.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\Includes\mythings\shader.h(105,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\shader.h(104,6): warning C4101: “success”: 未引用的局部变量
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\3_Materials\main.cpp(159,21): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\3_Materials\main.cpp(160,21): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\3_Materials\main.cpp(161,21): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\3_Materials\main.cpp(167,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\3_Materials\main.cpp(168,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\3_Materials\main.cpp(169,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\3_Materials\main.cpp(255,18): warning C4101: “direction”: 未引用的局部变量
+  3_Materials.vcxproj -> E:\Learn\LearnOpenGL\LEARN\2_Lighting\3_Materials\x64\Debug\3_Materials.exe

@@ -1,0 +1,22 @@
+﻿  glad.c
+  main.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\Includes\mythings\shader.h(126,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\shader.h(125,6): warning C4101: “success”: 未引用的局部变量
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\2_Basic_Lighting\2_Basic_Lighting\main.cpp(152,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\2_Basic_Lighting\2_Basic_Lighting\main.cpp(153,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\2_Basic_Lighting\2_Basic_Lighting\main.cpp(154,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\2_Basic_Lighting\2_Basic_Lighting\main.cpp(234,18): warning C4101: “direction”: 未引用的局部变量
+  2_Basic_Lighting.vcxproj -> E:\Learn\LearnOpenGL\LEARN\2_Lighting\2_Basic_Lighting\x64\Debug\2_Basic_Lighting.exe
