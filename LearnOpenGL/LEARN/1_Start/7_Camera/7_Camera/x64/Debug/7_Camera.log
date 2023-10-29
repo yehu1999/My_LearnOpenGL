@@ -1,0 +1,4 @@
+﻿  part3.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\LearnOpenGL\LEARN\1_Start\7_Camera\7_Camera\part3.cpp(281,18): warning C4101: “direction”: 未引用的局部变量
+  7_Camera.vcxproj -> E:\Learn\LearnOpenGL\LEARN\1_Start\7_Camera\x64\Debug\7_Camera.exe

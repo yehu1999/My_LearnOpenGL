@@ -1,0 +1,25 @@
+﻿  shader.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\srcs\shader.cpp(43,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\srcs\shader.cpp(42,6): warning C4101: “success”: 未引用的局部变量
+  main.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(282,19): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(284,19): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(286,19): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(288,19): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(290,20): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(292,22): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(298,19): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(300,20): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(302,19): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(304,20): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(306,19): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(308,20): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(312,21): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(314,23): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(325,26): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\6_CoordinateSystem\main.cpp(327,26): warning C4305: “-=”: 从“double”到“float”截断
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  6_CoordinateSystem.vcxproj -> E:\Learn\LearnOpenGL\LEARN\1_Start\6_CoordinateSystem\x64\Debug\6_CoordinateSystem.exe
