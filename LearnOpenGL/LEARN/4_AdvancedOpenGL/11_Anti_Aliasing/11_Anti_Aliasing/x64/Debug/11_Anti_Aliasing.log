@@ -1,0 +1,6 @@
+﻿  part2.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\Includes\mythings\shader.h(124,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\shader.h(123,6): warning C4101: “success”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\mesh.h(131,65): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  11_Anti_Aliasing.vcxproj -> E:\Learn\LearnOpenGL\LEARN\4_AdvancedOpenGL\11_Anti_Aliasing\x64\Debug\11_Anti_Aliasing.exe
