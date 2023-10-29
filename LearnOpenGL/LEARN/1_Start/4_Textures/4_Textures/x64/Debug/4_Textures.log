@@ -1,0 +1,16 @@
+﻿  shader.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\srcs\shader.cpp(43,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\srcs\shader.cpp(42,6): warning C4101: “success”: 未引用的局部变量
+  part2.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(186,14): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(188,14): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(190,14): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(192,14): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(195,15): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(197,17): warning C4305: “-=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(201,21): warning C4305: “+=”: 从“double”到“float”截断
+E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\4_Textures\part2.cpp(203,21): warning C4305: “-=”: 从“double”到“float”截断
+  正在生成代码...
+  4_Textures.vcxproj -> E:\Learn\LearnOpenGL\LEARN\1_Start\4_Textures\x64\Debug\4_Textures.exe
