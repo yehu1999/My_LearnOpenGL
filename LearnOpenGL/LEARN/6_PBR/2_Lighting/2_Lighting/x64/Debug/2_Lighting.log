@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\Includes\mythings\shader.h(126,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\shader.h(125,6): warning C4101: “success”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\mesh.h(131,65): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  2_Lighting.vcxproj -> E:\Learn\LearnOpenGL\LEARN\6_PBR\2_Lighting\x64\Debug\2_Lighting.exe
