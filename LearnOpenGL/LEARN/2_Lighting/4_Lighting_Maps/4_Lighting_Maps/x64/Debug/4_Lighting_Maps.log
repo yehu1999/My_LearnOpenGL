@@ -1,0 +1,22 @@
+﻿  main.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\Includes\mythings\shader.h(105,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\shader.h(104,6): warning C4101: “success”: 未引用的局部变量
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\4_Lighting_Maps\4_Lighting_Maps\main.cpp(188,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\4_Lighting_Maps\4_Lighting_Maps\main.cpp(189,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\4_Lighting_Maps\4_Lighting_Maps\main.cpp(190,35): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\4_Lighting_Maps\4_Lighting_Maps\main.cpp(276,18): warning C4101: “direction”: 未引用的局部变量
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  4_Lighting_Maps.vcxproj -> E:\Learn\LearnOpenGL\LEARN\2_Lighting\4_Lighting_Maps\x64\Debug\4_Lighting_Maps.exe

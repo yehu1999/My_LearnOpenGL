@@ -1,0 +1,6 @@
+﻿  part3_Spotlight.cpp
+E:\Learn\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Learn\Deps\Includes\mythings\shader.h(105,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\Learn\Deps\Includes\mythings\shader.h(104,6): warning C4101: “success”: 未引用的局部变量
+E:\Learn\LearnOpenGL\LEARN\2_Lighting\5_Light_Casters\5_Light_Casters\part3_Spotlight.cpp(308,18): warning C4101: “direction”: 未引用的局部变量
+  5_Light_Casters.vcxproj -> E:\Learn\LearnOpenGL\LEARN\2_Lighting\5_Light_Casters\x64\Debug\5_Light_Casters.exe
